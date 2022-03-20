@@ -1,0 +1,44 @@
+{
+    "name": "official bot",
+    "description": "When I free.",
+    "stack": "container",
+    "keywords": [
+      "telegram",
+      "auto-filter",
+      "filter",
+      "best",
+      "indian",
+      "pyrogram",
+      "media",
+      "search",
+      "channel",
+      "index",
+      "inline"
+    ],
+    "website": "",
+    "repository": "",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Your bot token.",
+            "required": true
+        },
+        "API_ID": {
+            "description": "Get this value from https://my.telegram.org",
+            "required": true
+        },
+        "API_HASH": {
+            "description": "Get this value from https://my.telegram.org",
+            "required": true
+        }
+    },
+    "addons": [],
+    "buildpacks": [{
+        "url": "heroku/python"
+    }],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
