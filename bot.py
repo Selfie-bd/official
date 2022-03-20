@@ -13,7 +13,7 @@ ajvad = Client(
 
 START_TEXT = """<b>Hᴇʟʟᴏ 👋 {},
 
-Tʜɪs Is A Oꜰꜰɪᴄɪᴀʟ Bᴏᴛ Oꜰ Aɪᴏᴍ©
+Tʜɪs Is A Oꜰꜰɪᴄɪᴀʟ Bᴏᴛ Oꜰ ɢʀᴏᴜᴘᴅᴄʙᴏᴛꜱ©
 
 Yᴏᴜ Cᴀɴ Usᴇ Tʜɪs Bᴏᴛ Tᴏ Kɴᴏᴡ Mᴏʀᴇ Aʙᴏᴜᴛ Aɪᴏᴍ Cᴏᴍᴘᴀɴʏ
 
@@ -46,15 +46,15 @@ RTUSIKKSNNHBBBNNNZJJK = [[
 
 GHEJISJSBSHWUS = """「 Aɪᴏᴍ Cᴏᴍᴘᴀɴʏ Hᴀs 2 Cʜᴀɴɴᴇʟs 」
 
-〈 • @AIOM_BOTS
+〈 • @GroupDcBots
 
-    • @AIOM_BOTS_UPDATES 〉"""
+    • @logdcbots 〉"""
 
 SGKGSFJFGFSTRDH = """「 Aɪᴏᴍ Cᴏᴍᴘᴀɴʏ Hᴀs 2 Gʀᴏᴜᴩꜱ 」
 
-〈 • @AIOM_BOTS_GROUP
+〈 • @groupDc
 
-    • @ALLINONEMOVIESTALKS 〉"""
+    • @dcstreamBot 〉"""
 
 SFHODFHIK = "「 Sᴇɴᴅ Tʜᴇ Mᴇssᴀɢᴇ Tʜᴀᴛ Yᴏᴜ Wᴀɴᴛ Tᴏ Tᴇʟʟ Us 」"
 
@@ -64,7 +64,7 @@ JOINTETYSI = """<b>Tᴏ Jᴏɪɴ Oᴜʀ Tᴇᴀᴍ Yᴏᴜ Mᴜsᴛ Nᴇᴇᴅ T
 
 DGKKKKKK = """「 Aɪᴏᴍ Cᴏᴍᴘᴀɴʏ Hᴀs 1 Yᴏᴜᴛᴜʙᴇ Cʜᴀɴɴᴇʟ 」
 
-〈 •https://youtube.com/channel/UCI152ovlGMZ_ekyJdcMFgXw  〉"""
+〈 •https://youtube.com/channel/  〉"""
 
 JOINTBSJSI = [[
                 InlineKeyboardButton("Cᴏɴᴛɪɴᴜᴇ ✓", callback_data="join")
@@ -86,7 +86,7 @@ DFGUIJJHTT = [[
              InlineKeyboardButton("ϡ Hɪʀᴇ Us", callback_data="hire")
              ]]
 
-GJDOSNDNXHDUSN = """Aɪᴏᴍ© Is A Oꜰꜰɪᴄɪᴀʟ Cᴏᴅɪɴɢ Rᴇʟᴇᴛᴇᴅ Cᴏᴍᴘᴀɴʏ 
+GJDOSNDNXHDUSN = """ɢʀᴏᴜᴘᴅᴄʙᴏᴛꜱ© Is A Oꜰꜰɪᴄɪᴀʟ Cᴏᴅɪɴɢ Rᴇʟᴇᴛᴇᴅ Cᴏᴍᴘᴀɴʏ 
 
 Yᴏᴜ Cᴀɴ Jᴏɪɴ Oᴜʀ Tᴇᴀᴍ (ᴏʀ) Hɪʀᴇ Us Tᴏ Mᴀᴋᴇ Yᴏᴜ A Wᴏɴᴅᴇʀꜰᴜʟ Bᴏᴛ
 
