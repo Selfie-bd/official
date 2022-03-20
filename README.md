@@ -1,2 +1,1 @@
-# official
-Official bot for @GroupDcBots
+# OFFICIAL_BOT
